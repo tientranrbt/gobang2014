@@ -1,1 +1,1 @@
-Gobang game with two mode: AI and PvP
+Gobang game with two modes: AI and PvP
